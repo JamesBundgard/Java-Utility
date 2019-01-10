@@ -9,4 +9,4 @@ The main features include:
 - a program that opens webpages
 - an inferface for a weather api (in progress)
 
-Note: As of 1/9/2019 the javax.mail.* libraries are not being recognized, so it will not compile.
+To use the program, simply download the file java-util.jar and create a new account.
