@@ -9,4 +9,4 @@ The main features include:
 - a program that opens webpages
 - an inferface for a weather api (in progress)
 
-To use the program, simply download the file java-util.jar and create a new account.
+To use the program, simply download and run the file java-util.jar, then create a new account.
