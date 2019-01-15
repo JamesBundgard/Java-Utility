@@ -1,5 +1,5 @@
 # Java-Utility
-A java program that supports user login and provides several smaller applications.
+A java program that supports user login and provides several smaller applications. It implements a custom UI designed in Swing.
 
 The main features include:
 - a calculator
